@@ -221,6 +221,9 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
+---
+## Development
+To compile this on your machine you will need to install [CocoaPods](https://cocoapods.org/), this may require an updated version of Ruby compared to what ships with your Mac (as of macOS Catalina no Ruby is bundled).
 
 
 
